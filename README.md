@@ -1,0 +1,2 @@
+# prakteknikoptimasi
+PRAKTIKUM TEKNIK OPTIMASI
